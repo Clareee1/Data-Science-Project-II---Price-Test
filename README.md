@@ -37,6 +37,11 @@ Data : q2_test_results.csv
 
 •	converted: 1 -> bought the product - 0 -> left the site without buying it. 
 
+
+
+
+
+
 Data: q2_user_table.csv
 Columns: 
 •	user_id: the Id of the user. Can be joined to user_id in test_results table
